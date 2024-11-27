@@ -13,4 +13,4 @@ Visit the [Releases](https://github.com/SeismicSystems/seismic-solidity-releases
 
 ## License
 
-Licensed under [GNU General Public License]([LICENSE)](https://github.com/SeismicSystems/seismic-solidity-releases/LICENSE.txt).
+Licensed under [GNU General Public License](https://github.com/SeismicSystems/seismic-solidity-releases/LICENSE.txt).
